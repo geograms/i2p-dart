@@ -1,0 +1,8 @@
+include: package:lints/recommended.yaml
+
+analyzer:
+  language:
+    strict-casts: true
+  errors:
+    # The node deals in raw protocol bytes; a few of these are noise here.
+    constant_identifier_names: ignore
