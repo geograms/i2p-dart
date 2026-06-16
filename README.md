@@ -32,7 +32,7 @@ by hash. Mapping hashes to your app's files/messages is left to you.
 dependencies:
   i2p:
     git:
-      url: https://github.com/geograms/i2p-flutter.git
+      url: https://github.com/geograms/i2p-dart.git
 ```
 
 ## Quick start
@@ -106,4 +106,4 @@ storage hook). For lower-level control the package also exports:
 
 ## License
 
-Apache-2.0. See [LICENSE](LICENSE).
+BSD-3-Clause. Copyright (c) 2026 Max Brito. See [LICENSE](LICENSE).
